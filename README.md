@@ -15,7 +15,7 @@
     
 
 ## Output
-- [Google Slide](https://docs.google.com/presentation/d/1MiEM-Mo72EeKbuoDuNkexDcOcm00g1u__conYAksmgw/present)
+- ~[Google Slide](https://docs.google.com/presentation/d/1MiEM-Mo72EeKbuoDuNkexDcOcm00g1u__conYAksmgw/present)~
 - [Youtube](https://youtu.be/_8r2QF7Jzj8)
 - [GitHub](https://github.com/mols3131d/Agricultural-Products-Price-Prediction-)
 - [Streamlit](https://y0ungbinlee-test-1-main-gfhk1e.streamlit.app/)
